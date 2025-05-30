@@ -1,0 +1,5 @@
+* text=auto
+*.stl binary
+*.step binary
+*.blend binary
+*.md text
